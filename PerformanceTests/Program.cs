@@ -1,4 +1,4 @@
 ﻿using BenchmarkDotNet.Running;
 using PerformanceTests;
 
-var summary = BenchmarkRunner.Run<JsonSerialization>();
+var summary = BenchmarkRunner.Run<ForVsForeach>();
