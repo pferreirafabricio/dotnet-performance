@@ -1,7 +1,7 @@
 # ⚡Testing performance on .NET
 
 <p align="left">
-  This project aims to test some aspects of .NET and C# most used features, like strings, iterations, serializations and etc.
+  This project aims to test some aspects of most used features in .NET and C#, such as strings, iterations, serializations, etc.
   <br><br>
   <!-- License -->
   <a>
