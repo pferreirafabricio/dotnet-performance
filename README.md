@@ -84,7 +84,7 @@ Intel Core i5-8250U CPU 1.60GHz (Kaby Lake R), 1 CPU, 8 logical and 4 physical c
  1. Clone this repository `git clone https://github.com/pferreirafabricio/dotnet-performance.git`;
  2. Enter in the project's folder: `cd dotnet-performance`
  3. Enter in the solution: `cd PerformanceTests`
- 4. Change on `Program.cs` file to use the class that you want to test
+ 4. Change in the `Program.cs` file to use the class you want to test
  5. Finally run `dotnet run --configuration Release` 😃
 
 ## :bricks: This project was built with: 
