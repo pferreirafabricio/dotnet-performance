@@ -9,6 +9,17 @@
   </a>
 </p>
 
+## :open_book: About 
+Specifications
+
+``` ini
+BenchmarkDotNet=v0.13.1, OS=Windows 10.0.22616
+Intel Core i5-8250U CPU 1.60GHz (Kaby Lake R), 1 CPU, 8 logical and 4 physical cores
+.NET SDK=6.0.300
+  [Host]     : .NET 6.0.5 (6.0.522.21309), X64 RyuJIT
+  DefaultJob : .NET 6.0.5 (6.0.522.21309), X64 RyuJIT
+```
+
 ## ⚗️ Results
 
 ### MD5 vs SHA256
